@@ -1,1 +1,7 @@
 Welcome to Git
+<<<<<<< Updated upstream
+=======
+Welcome to Docker
+Welcome to K8 
+qfjqfjfofo 
+>>>>>>> Stashed changes
